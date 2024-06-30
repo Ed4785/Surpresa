@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Joyce Meu Amor Eterno</title>
+    <style>
+        body {
+            background-color: #ffe6e6;
+            font-family: 'Arial', sans-serif;
+            text-align: center;
+            padding: 50px;
+        }
+        h1 {
+            color: #ff6666;
+            font-size: 3em;
+        }
+        p {
+            color: #cc6699;
+            font-size: 1.5em;
+        }
+        .heart {
+            font-size: 5em;
+            color: #ff99cc;
+        }
+    </style>
+</head>
+<body>
+    <h1>Joyce, Meu Amor Eterno</h1>
+    <p>Você é a razão do meu sorriso, a inspiração para cada batida do meu coração.</p>
+    <p class="heart">❤️</p>
+    <p>Com todo meu amor, para sempre.</p>
+</body>
+</html>

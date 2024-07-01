@@ -31,9 +31,9 @@
     <div class="container">
         <h1>Mensagem de Amor para Joyce</h1>
         <p>Olá Joyce, aqui está uma mensagem especial para você:</p>
-        <p><span class="hearts">&#10084;&#65039;&#10084;&#65039;</span></p>
-        <p>Espero que seu dia seja maravilhoso!</p>
-        <p>Com amor,</p>
+        <p><span class="hearts">&#10084;&#65039; Te amo muito! &#10084;&#65039;</span></p>
+        <p>Que nosso amor cresça a cada dia.</p>
+        <p>Com carinho,</p>
         <p>Edirlei</p>
     </div>
     <div style="text-align: center; margin-top: 20px;">
@@ -41,3 +41,4 @@
     </div>
 </body>
 </html>
+

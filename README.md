@@ -1,55 +1,43 @@
 <!DOCTYPE html>
-<html lang="pt-BR">
+<html lang="pt-br">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mensagem para Joyce Santos</title>
+    <title>Mensagem de Amor para Joyce</title>
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-color: #f8f9fa;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            margin: 0;
-            flex-direction: column;
             text-align: center;
+            background-color: #f8f8f8;
         }
         .container {
-            background-color: #fff;
-            border: 2px solid #ff69b4;
-            border-radius: 10px;
+            max-width: 600px;
+            margin: 50px auto;
             padding: 20px;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            background-color: #fff;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
         }
         h1 {
-            color: #ff69b4;
+            color: #ff4e67;
         }
-        p {
-            font-size: 18px;
-            color: #333;
-        }
-        .heart {
-            color: #ff69b4;
-            font-size: 50px;
-            margin: 20px 0;
-        }
-        a {
-            text-decoration: none;
-            color: #ff69b4;
-            font-weight: bold;
-            font-size: 18px;
+        .hearts {
+            font-size: 24px;
+            color: #ff4e67;
         }
     </style>
 </head>
 <body>
     <div class="container">
-        <h1>Para Joyce Santos</h1>
-        <p>Você é a razão dos meus sorrisos, a luz dos meus dias e a dona do meu coração. Eu te amo mais do que palavras podem expressar.</p>
-        <div class="heart">❤️</div>
-        <p>Clique no link abaixo para ver esta mensagem novamente.</p>
-        <a href="mensagem.html">Rever Mensagem</a>
+        <h1>Mensagem de Amor para Joyce</h1>
+        <p>Olá Joyce, aqui está uma mensagem especial para você:</p>
+        <p><span class="hearts">&#10084;&#65039;&#10084;&#65039;</span></p>
+        <p>Espero que seu dia seja maravilhoso!</p>
+        <p>Com amor,</p>
+        <p>Edirlei</p>
+    </div>
+    <div style="text-align: center; margin-top: 20px;">
+        <a href="mensagem_de_amor.html" target="_blank">Clique aqui para ver a mensagem</a>
     </div>
 </body>
 </html>

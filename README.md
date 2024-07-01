@@ -49,7 +49,7 @@
         <p>Você é a razão dos meus sorrisos, a luz dos meus dias e a dona do meu coração. Eu te amo mais do que palavras podem expressar.</p>
         <div class="heart">❤️</div>
         <p>Clique no link abaixo para ver esta mensagem novamente.</p>
-        <a href="#">Rever Mensagem</a>
+        <a href="mensagem.html">Rever Mensagem</a>
     </div>
 </body>
 </html>

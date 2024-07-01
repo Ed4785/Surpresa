@@ -3,32 +3,53 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Joyce Meu Amor Eterno</title>
+    <title>Mensagem para Joyce Santos</title>
     <style>
         body {
-            background-color: #ffe6e6;
-            font-family: 'Arial', sans-serif;
+            font-family: Arial, sans-serif;
+            background-color: #f8f9fa;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            flex-direction: column;
             text-align: center;
-            padding: 50px;
+        }
+        .container {
+            background-color: #fff;
+            border: 2px solid #ff69b4;
+            border-radius: 10px;
+            padding: 20px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
         }
         h1 {
-            color: #ff6666;
-            font-size: 3em;
+            color: #ff69b4;
         }
         p {
-            color: #cc6699;
-            font-size: 1.5em;
+            font-size: 18px;
+            color: #333;
         }
         .heart {
-            font-size: 5em;
-            color: #ff99cc;
+            color: #ff69b4;
+            font-size: 50px;
+            margin: 20px 0;
+        }
+        a {
+            text-decoration: none;
+            color: #ff69b4;
+            font-weight: bold;
+            font-size: 18px;
         }
     </style>
 </head>
 <body>
-    <h1>Joyce, Meu Amor Eterno</h1>
-    <p>Você é a razão do meu sorriso, a inspiração para cada batida do meu coração.</p>
-    <p class="heart">❤️</p>
-    <p>Com todo meu amor, para sempre.</p>
+    <div class="container">
+        <h1>Para Joyce Santos</h1>
+        <p>Você é a razão dos meus sorrisos, a luz dos meus dias e a dona do meu coração. Eu te amo mais do que palavras podem expressar.</p>
+        <div class="heart">❤️</div>
+        <p>Clique no link abaixo para ver esta mensagem novamente.</p>
+        <a href="mensagem.html">Rever Mensagem</a>
+    </div>
 </body>
 </html>
